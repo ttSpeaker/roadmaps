@@ -14,20 +14,18 @@ Roadmap:
 
 Contenido:
     -Completo/Pendiente
-
-    Links a:
-        -Tareas
-        -Articulos
-        -Videos
-        -Drive (ppt, docs, ..)
-
-    Propio?
+    -Links a:
+    -Tareas
+    -Articulos
+    -Videos
+    -Drive (ppt, docs, ..)
+    -Propio?
         - hostear markdown?
         - poder reproducir el video dentro de la aplicacion
 
-    -Tiempo estimado de completado? permite reservar un espacio de calendar
-    una charla o video por ejemplo
-    -Agendar tiempo en calendar para dedicar a cierto roadmap/contenido
+-Tiempo estimado de completado? permite reservar un espacio de calendar
+una charla o video por ejemplo
+-Agendar tiempo en calendar para dedicar a cierto roadmap/contenido
 
     -
 
